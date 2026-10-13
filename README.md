@@ -1,2 +1,3 @@
-# Sucky website for de web
-idk everyones doing it.
+# RitwickVerma.github.io
+
+Redirects to https://www.ritwickverma.dev/. Earlier content is preserved in git history.
